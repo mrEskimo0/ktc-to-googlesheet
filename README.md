@@ -16,4 +16,4 @@ This program also requires credentials for the google sheets api via a json file
 
 ## Usage
 
-Simply call the ktc_to_googlesheet.py file. 
+Simply call the scrape.cmd file. 
